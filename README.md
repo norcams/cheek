@@ -4,7 +4,7 @@ cheek
 cheek is a utility for bootstrapping a Cumulus Linux vm image.
 
 ### Disclaimer
-This project is very much a work in progress, and is unsupported by Cumulus Networks®.  If you see an error while running it, it probably doesn't matter, or you may have just formatted your root disk. Caveat emptor.
+This project is very much a work in progress, and is unsupported by Cumulus Networks®.  At this stage rather than executing it, it is best use as a commented copy-paste protocol. Some stages of package install end with errors which can be ignored. Caveat emptor: this process involves creating and formatting storage. Users should know what a loopback device is.
 
 ### Todos
 Decreasing priority:
